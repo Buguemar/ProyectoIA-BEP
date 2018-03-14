@@ -1,0 +1,4 @@
+* Para ejecutar el código es necesario ejecutar en la línea de comandos "make exe".
+* Los parámetros son dados en el mismo archivo makefile (instancia de entrada y nombre del archivo de salida).
+* Es necesario un compilador g++ con las librerías utilizadas.
+* Para limpiar los archivos ejecutables, por línea de comandos escribir "make clean".
